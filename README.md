@@ -1,6 +1,10 @@
 ### Hi there 👋
 Co-founder of 2324.co media & software
-I CODE 🐒
+
+- I CODE 🐒
+- I EAT 🐒
+- I FUN 🐒
+- I REGRET 🐒
 
 <!--
 **devozdemirhasancan/devozdemirhasancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
