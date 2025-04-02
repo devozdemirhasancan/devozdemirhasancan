@@ -1,22 +1,20 @@
-### Hi there 👋
-Co-founder of 2324.co media & software
+### Hey there! 👋
 
-- I CODE 🐒
-- I EAT 🐒
-- I FUN 🐒
-- I REGRET 🐒
+I'm Hasan Can, a **full + full stack developer** who loves building awesome things! 🚀
 
-<!--
-**devozdemirhasancan/devozdemirhasancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I **code** (sometimes like a wizard, sometimes like a monkey 🐒)
+- 🍕 I **eat** (because fuel is important)
+- 🎉 I **have fun** (code + caffeine = chaos!)
+- 🤦 I **regret** (usually after deploys)
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+- Developing from **embedded systems** to **web applications** 🏗️
+- Working with **AI, software, and hardware** 🤖💾
+- Passionate about **scalability, system architecture, and cutting-edge tech**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+- 📩 Email: devozdemirhasancan@gmail.com
+- 🌐 Website: [sanaticinhasancan.art](https://sanaticinhasancan.art)
+
+🔥 Fun Fact: Sometimes, I refactor code just to feel something. 😅
+
